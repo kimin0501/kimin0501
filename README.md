@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ki Min</h1>
-<h3 align="center">A passionate developer from South Korea</h3>
+<h3 align="center">A passionate developer </h3>
 
 <!--
 **kimin0501/kimin0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
